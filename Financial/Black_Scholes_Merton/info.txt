@@ -1,0 +1,5 @@
+Black Scholes  Merton formula Example in Python
+
+You can change the stock 
+Update K to strike price
+
