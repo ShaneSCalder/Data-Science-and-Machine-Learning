@@ -1,0 +1,5 @@
+What is in this folder. 
+
+Python Jupyter notebook with an example of Markowitz_Portfolio_Optimization
+PDF file if you do not use Jupyter
+
