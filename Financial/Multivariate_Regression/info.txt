@@ -1,0 +1,5 @@
+Folder contains a Multivariate Regrssion example 
+
+Housing data was used and 3 Regressions were conducted
+
+Resulting data did not find a solution on house price or that the factors giving impact price. 
