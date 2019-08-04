@@ -1,0 +1,7 @@
+
+Created an Example using IRIS dataset (http://en.wikipedia.org/wiki/Iris_flower_data_set). 
+
+This came from a course from 	Jose Marcial Portilla Course Python for Data Science and Machine Learning Bootcamp 
+Section 20 Support Vector Machines 
+
+
