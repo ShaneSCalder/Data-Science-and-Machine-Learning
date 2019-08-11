@@ -1,0 +1,7 @@
+
+Folder contains
+
+K means example and a project 
+
+Jupyter Notebook and PDF's of examples
+
