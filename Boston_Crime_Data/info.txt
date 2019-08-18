@@ -1,0 +1,5 @@
+Boston Crime Data from Kaggle 
+
+https://www.kaggle.com/AnalyzeBoston/crimes-in-boston
+
+Will create Python Jupyter and print PDF files looking at data 
